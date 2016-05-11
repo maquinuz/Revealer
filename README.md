@@ -19,7 +19,7 @@ Also, the database `DATABASE_NAME` must exist before the application could be ex
 When the values are correct, run:
 
 ```terminal
-$ python manage.py upgrade
+$ python manage.py db upgrade
 ```
 
 ### Secret Key
